@@ -4,7 +4,6 @@
 💼 Goal: Land my first tech role & keep leveling up  
 
 ## 🛠️ Tech Stack
-- 🌐 HTML | CSS | JavaScript | C# Learning All...
 - 💻 C# 
 - 🗃️ Git | GitHub
 
