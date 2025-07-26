@@ -1,4 +1,4 @@
-👋 Hi, I'm Mamun Omolaja B. ✨
+#👋 Hi, I'm Mamun Omolaja B. ✨
 🎓 Aspiring Software Developer | C# Learner | Junior Dev in Progress
 📌 About Me
 💡 Passionate about turning ideas into real applications.
