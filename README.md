@@ -1,32 +1,18 @@
-#👋 Hi, I'm Mamun Omolaja B. ✨
-🎓 Aspiring Software Developer | C# Learner | Junior Dev in Progress
-📌 About Me
-💡 Passionate about turning ideas into real applications.
+# 👋 Hi, I'm Mamun Omolaja B.✨
 
-🎯 Currently focused on learning C# and building full-stack web projects with the MVC pattern.
+🎓 Beginner Developer | Learning C# | Junior Dev
+💼 Goal: Land my first tech role & keep leveling up  
 
-🚀 Goal: Secure my first role in tech and grow steadily as a developer.
+## 🛠️ Tech Stack
+- 💻 C# 
+- 🗃️ Git | GitHub
 
-🧠 Always learning, debugging, and pushing one commit closer to success.
-
-🛠️ Tech Stack
-💻 C# – My primary language of choice
-
-🗃️ Git & GitHub – Version control essentials
-
-🧪 Learning SQL, MVC architecture, and modern web development tools
-
-☁️ Planning to explore cloud services soon (hello Azure 👀)
-
-💼 Projects
-🧾 Student Registration System – Built with ASP.NET Core MVC, includes email verification & admin roles
-
-🏦 Banking App – Basic account features, transactions, and user management
-
-🛍️ EmployeeApp
-
-🔧 More personal tools and utilities in the pipeline
-
-“Code small today, go far tomorrow.” – Me (and maybe a wise dev somewhere)
+## 🔥 Projects
+- 🧾 [Student Registration WebApllication M-V-C| Bank App...]
+- 🛍️ ...... (in progress)
+- 💡 More coming soon...✨
+- Let’s just say, this is only the beginning.🚀
+-----
+> “Code small today, go far tomorrow.” – Me 
 
 🤝 Let's Connect
