@@ -151,36 +151,6 @@ public class OmolajaMamun : SoftwareEngineer
 
 <br>
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omolaja2&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/omolaja2/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omolaja2&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/omolaja2/YOUR_REPO_NAME)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
   
 ### ✨ Show some ❤️ by starring some repositories! ✨
 
