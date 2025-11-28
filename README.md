@@ -1,17 +1,7 @@
-<!-- Anime Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/0Zf7ZqV.gif" width="700" />
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#ff66a3;">Omolaja Mamun</span></h1>
 <h3 align="center">💻 Full Stack Software Engineer | 🇳🇬 Nigeria</h3>
 
 ---
-
-<!-- Anime Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/9CXCxQk.gif" width="450" />
-</p>
 
 ### 🌟 **About Me**
 - 🚀 Passionate **C# & ASP.NET Developer**
@@ -27,15 +17,10 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omolaja2&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omolaja2&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 
 ---
-
-<!-- Anime Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/9CXCxQk.gif" width="450" />
-</p>
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -59,11 +44,6 @@
 
 ---
 
-<!-- Anime Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/0tYEQ9R.gif" width="400" />
-</p>
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omolaja2&layout=compact&theme=tokyonight" height="180"/>
@@ -74,10 +54,5 @@
 </p>
 
 ---
-
-<!-- Cute Anime Outro -->
-<p align="center">
-  <img src="https://i.imgur.com/UC2D7QF.gif" width="200"/>
-</p>
 
 <h3 align="center">✨ Thanks for visiting! Stay awesome ✨</h3>
