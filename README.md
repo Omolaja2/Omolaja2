@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Omolaja+Mamun;Full+Stack+Software+Engineer;Building+with+C%23+%26+ASP.NET" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full Stack Software Engineer • C# • ASP.NET • MySQL 🚀</h3>
+<h3 align="center">Junior Software Engineer • C# • ASP.NET Core</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omolaja2&label=Profile%20Views&color=7f5af0&style=flat-square" alt="Profile views" />
